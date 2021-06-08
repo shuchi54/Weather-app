@@ -2,4 +2,4 @@
 
 A weather web app which displays weather data based on location in real time. The main screen contains the weather info.
 
-shuchi54.github.io/weather-app/
+
